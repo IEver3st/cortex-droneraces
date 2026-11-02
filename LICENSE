@@ -1,0 +1,68 @@
+Cortex Drone Races - Free Use License
+Copyright (c) 2026 GSD Mods (Ever3st). All rights reserved.
+
+This agreement is between you (the "Licensee") and GSD Mods (the "Licensor")
+and covers the Cortex Drone Races resource, including its code, interface, text, models,
+textures, configuration files and documentation (the "Software"). By
+downloading, installing or using the Software you accept these terms.
+
+1. License
+   The Licensor grants you, free of charge, a perpetual, non-exclusive,
+   non-transferable license to install and run the Software on FiveM servers
+   you own or administer, including commercial servers. The Software is
+   published at https://github.com/IEver3st/cortex-droneraces and
+   https://gsdmods.com/scripts/cortex-drone-races.
+
+2. What you may do
+   a. Use the Software on your own servers as described in section 1.
+   b. Read, edit and adapt any of its files to configure the Software or
+      integrate it with your server, including adding or changing tracks.
+   c. Show the Software in screenshots, videos and streams of your server.
+
+3. What you may not do
+   a. Sell, resell, share, give away, publish, sublicense, rent or otherwise
+      distribute the Software or any part of it, modified or not, inside
+      another product or on its own, including re-uploading it to another
+      repository or download site. Share the official link instead. Forking
+      this repository on GitHub to propose changes is allowed.
+   b. Extract its models, textures or interface for use outside the Software.
+   c. Use the Software, or any part of it, to train or improve a machine
+      learning or artificial intelligence model.
+   d. Remove or change copyright, license or attribution notices.
+   e. Claim the Software, or a work based on it, as your own.
+
+   Readable source does not make the Software open source. Rights not
+   expressly granted here are reserved by the Licensor.
+
+4. Third-party components and names
+   The interface font, web/dist/assets/cortex-display.woff2, is Barlow
+   Condensed, copyright 2017 The Barlow Project Authors
+   (https://github.com/jpt/barlow), licensed under the SIL Open Font
+   License 1.1 in web/dist/barlow-condensed-OFL.txt. That license applies to
+   the font only. Grand Theft Auto and related names, places and brands
+   belong to Rockstar Games and Take-Two Interactive.
+
+5. Updates and support
+   The Licensor provides reasonable technical support through its published
+   support channel. Updates are provided at the Licensor's discretion. Game,
+   FiveM or third-party resource updates may change how the Software
+   behaves; the Licensor does not guarantee compatibility with future
+   versions.
+
+6. Termination
+   This license ends automatically if you break these terms. You must then
+   stop using the Software and delete every copy.
+
+7. Disclaimer and liability
+   The Software is provided "as is", without warranty of any kind, express
+   or implied, including warranties of merchantability, fitness for a
+   particular purpose and non-infringement. To the extent the law allows,
+   the Licensor is not liable for any claim, damages or other liability
+   arising from the Software or its use.
+
+8. General
+   If any part of this agreement cannot be enforced, the rest remains in
+   effect. Your use of the Software is also subject to the Cfx.re Platform
+   License Agreement.
+
+NOT APPROVED, SPONSORED, OR ENDORSED BY ROCKSTAR GAMES.
